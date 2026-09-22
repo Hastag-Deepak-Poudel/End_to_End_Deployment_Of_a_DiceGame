@@ -1,5 +1,9 @@
 # End to End ReactJs deployment
 
+A simple and interactive Dice Game built with React, containerized with Docker, deployed to Kubernetes on AWS EKS, and automated using a complete DevOps workflow.
+
+This project demonstrates an end-to-end DevOps implementation covering Infrastructure as Code, CI/CD, GitOps, container security, code quality, Kubernetes deployment, and monitoring.
+
 This readme file contains all the necessary step to run a reactJs app using Github actions as CI and ArgoCD as CD.
 
 It is better to run this on EC2 instance so that so we dont need to install all the software in our local machine.
